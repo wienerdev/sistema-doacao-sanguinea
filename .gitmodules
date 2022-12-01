@@ -1,3 +1,6 @@
 [submodule "sds"]
 	path = sds
 	url = https://github.com/wienerdev/sds
+[submodule "sds-angular"]
+	path = sds-angular
+	url = https://github.com/wienerdev/sds-angular
